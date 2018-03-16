@@ -1,0 +1,10 @@
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.DB\bin\Debug\Kajal.DB.dll.config
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.DB\bin\Debug\Kajal.DB.dll
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.DB\bin\Debug\Kajal.DB.pdb
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.DB\bin\Debug\EntityFramework.dll
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.DB\bin\Debug\EntityFramework.xml
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.DB\obj\Debug\Kajal.DB.dll
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.DB\obj\Debug\Kajal.DB.pdb
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.DB\obj\Debug\Kajal.DB.csprojResolveAssemblyReference.cache

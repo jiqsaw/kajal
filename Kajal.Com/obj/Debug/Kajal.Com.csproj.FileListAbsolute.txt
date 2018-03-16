@@ -1,0 +1,18 @@
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.Com\bin\Debug\Kajal.Com.dll
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.Com\bin\Debug\Kajal.Com.pdb
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.Com\obj\Debug\Kajal.Com.dll
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.Com\obj\Debug\Kajal.Com.pdb
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.Com\obj\Debug\Kajal.Com.csprojResolveAssemblyReference.cache
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.Com\bin\Debug\LIB.dll
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.Com\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.Com\bin\Debug\LIB.pdb
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\Kajal.Com\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Loreal Maybelline Kajal\Kajal.Com\bin\Debug\Kajal.Com.dll
+D:\Projects\Loreal Maybelline Kajal\Kajal.Com\bin\Debug\Kajal.Com.pdb
+D:\Projects\Loreal Maybelline Kajal\Kajal.Com\bin\Debug\LIB.dll
+D:\Projects\Loreal Maybelline Kajal\Kajal.Com\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Loreal Maybelline Kajal\Kajal.Com\bin\Debug\LIB.pdb
+D:\Projects\Loreal Maybelline Kajal\Kajal.Com\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Loreal Maybelline Kajal\Kajal.Com\obj\Debug\Kajal.Com.csprojResolveAssemblyReference.cache
+D:\Projects\Loreal Maybelline Kajal\Kajal.Com\obj\Debug\Kajal.Com.dll
+D:\Projects\Loreal Maybelline Kajal\Kajal.Com\obj\Debug\Kajal.Com.pdb

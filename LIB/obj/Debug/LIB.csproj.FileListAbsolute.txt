@@ -1,0 +1,12 @@
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\LIB\bin\Debug\LIB.dll
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\LIB\bin\Debug\LIB.pdb
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\LIB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\LIB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\LIB\obj\Debug\LIB.dll
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\LIB\obj\Debug\LIB.pdb
+D:\Projects\Loreal Maybelline Kajal\LIB\bin\Debug\LIB.dll
+D:\Projects\Loreal Maybelline Kajal\LIB\bin\Debug\LIB.pdb
+D:\Projects\Loreal Maybelline Kajal\LIB\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Loreal Maybelline Kajal\LIB\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Loreal Maybelline Kajal\LIB\obj\Debug\LIB.dll
+D:\Projects\Loreal Maybelline Kajal\LIB\obj\Debug\LIB.pdb

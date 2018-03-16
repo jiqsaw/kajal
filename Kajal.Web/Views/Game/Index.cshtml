@@ -1,0 +1,117 @@
+﻿<!-- LIB -->
+<script src="@PathHelper.UrlStatic/scripts/mediaelement/mediaelement-and-player.min.js"></script>
+<link rel="stylesheet" href="@PathHelper.UrlStatic/scripts/mediaelement/mediaelementplayer.min.css" />
+<!-- -->
+
+
+<h2>Game Index</h2>
+
+<script>
+
+    console.log("Game Started");
+
+    $(function () {
+
+        loadWordPart();        
+
+    }); 
+
+    function loadWordPart() {
+        $(".wordsWrapper").load("/Game/WordPart", function () {
+
+            bindVideo();
+            bindGameWordItem();
+            
+        });
+    }
+
+    var player;
+    function bindVideo() {
+
+        player = new MediaElementPlayer(
+            '#videoGame', {
+                success: function (mediaElement, domObject) {
+
+                    mediaElement.addEventListener('play', function () { onVideoPlay(mediaElement); });
+
+                    mediaElement.addEventListener('canplay', function () { onVideoCanPlay(mediaElement); });
+
+                    mediaElement.addEventListener('timeupdate', function (e) {
+
+                        var ct = parseInt(mediaElement.currentTime);
+                        if (mediaElement.lastTime != ct)
+                            onVideoTimeUpdate(mediaElement, ct)
+
+                        this.lastTime = ct;
+
+                    }, false);
+
+                    mediaElement.addEventListener('ended', onVideoEnd, false);
+                }
+            }
+        );
+
+    }
+
+
+    function onVideoPlay(obj) {
+        GATracker("Video_Play");
+    }
+
+    function onVideoCanPlay(obj) {
+
+    }
+
+    function onVideoTimeUpdate(obj, second) {
+
+    }
+
+    function onVideoEnd() {
+        GATracker("Video_End");
+    }
+
+
+    function bindGameWordItem() {
+        $('.wordsWrapper a').click(function () {
+
+            var postData = { Word: $(this).attr('data-word') };
+
+            $.ajax({
+                type: "POST",
+                url: "/Game/CheckWord",
+                data: postData,
+                error: function (err) { },
+                success: function (response) {
+
+                    if (response.result == "OK") {
+                        if (eval(response.isCorrect)) {
+                            console.log("Game Word Matched");
+
+                            if (eval(response.endGame)) {
+                                console.log("Game End");
+                                location.href = "/Game/End";
+                            }
+                            else
+                                loadWordPart();
+                        }
+                        else
+                            console.log("Game Word Not Matched")
+                    }
+                    else
+                        console.log("hata")
+                },
+                complete: function () { }
+            });
+
+        });
+    }
+
+</script>
+
+<aside class="wordsWrapper"></aside>
+
+@*@Html.Action("WordPart", "Game")*@
+
+<img src="@SessionManager.GetInstance().User.Data.PictureUrl" alt="" />
+
+<a href="~/Game/Repeat">Tekrar Oyna</a>

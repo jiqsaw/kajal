@@ -1,0 +1,25 @@
+C:\J\Projects\MaybellineMakeUpFest\FbManager\bin\Debug\FbManager.dll
+C:\J\Projects\MaybellineMakeUpFest\FbManager\bin\Debug\FbManager.pdb
+C:\J\Projects\MaybellineMakeUpFest\FbManager\bin\Debug\LIB.dll
+C:\J\Projects\MaybellineMakeUpFest\FbManager\bin\Debug\Newtonsoft.Json.dll
+C:\J\Projects\MaybellineMakeUpFest\FbManager\bin\Debug\LIB.pdb
+C:\J\Projects\MaybellineMakeUpFest\FbManager\bin\Debug\Newtonsoft.Json.xml
+C:\J\Projects\MaybellineMakeUpFest\FbManager\obj\Debug\FbManager.csprojResolveAssemblyReference.cache
+C:\J\Projects\MaybellineMakeUpFest\FbManager\obj\Debug\FbManager.dll
+C:\J\Projects\MaybellineMakeUpFest\FbManager\obj\Debug\FbManager.pdb
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\FbManager\bin\Debug\FbManager.dll
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\FbManager\bin\Debug\FbManager.pdb
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\FbManager\bin\Debug\LIB.dll
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\FbManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\FbManager\bin\Debug\LIB.pdb
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\FbManager\obj\Debug\FbManager.csprojResolveAssemblyReference.cache
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\FbManager\obj\Debug\FbManager.dll
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\FbManager\obj\Debug\FbManager.pdb
+D:\Projects\Loreal Maybelline Kajal\FbManager\bin\Debug\FbManager.dll
+D:\Projects\Loreal Maybelline Kajal\FbManager\bin\Debug\FbManager.pdb
+D:\Projects\Loreal Maybelline Kajal\FbManager\bin\Debug\LIB.dll
+D:\Projects\Loreal Maybelline Kajal\FbManager\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Loreal Maybelline Kajal\FbManager\bin\Debug\LIB.pdb
+D:\Projects\Loreal Maybelline Kajal\FbManager\obj\Debug\FbManager.csprojResolveAssemblyReference.cache
+D:\Projects\Loreal Maybelline Kajal\FbManager\obj\Debug\FbManager.dll
+D:\Projects\Loreal Maybelline Kajal\FbManager\obj\Debug\FbManager.pdb

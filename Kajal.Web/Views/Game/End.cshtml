@@ -1,0 +1,75 @@
+﻿oyun bitti
+
+<!-- LIB -->
+<script src="@PathHelper.UrlStatic/scripts/mediaelement/mediaelement-and-player.min.js"></script>
+<link rel="stylesheet" href="@PathHelper.UrlStatic/scripts/mediaelement/mediaelementplayer.min.css" />
+<!-- -->
+
+
+<script>
+    $(function () {
+
+        bindVideo();
+
+    });
+    var player;
+    function bindVideo() {
+
+        player = new MediaElementPlayer(
+            '#videoGame', {
+                success: function (mediaElement, domObject) {
+
+                    mediaElement.addEventListener('play', function () { onVideoPlay(mediaElement); });
+
+                    mediaElement.addEventListener('canplay', function () { onVideoCanPlay(mediaElement); });
+
+                    mediaElement.addEventListener('timeupdate', function (e) {
+
+                        var ct = parseInt(mediaElement.currentTime);
+                        if (mediaElement.lastTime != ct)
+                            onVideoTimeUpdate(mediaElement, ct)
+
+                        if (ct == 2)
+                            mediaElement.setCurrentTime(0);
+
+                        this.lastTime = ct;
+
+                    }, false);
+
+                    mediaElement.addEventListener('ended', onVideoEnd, false);
+                }
+            }
+        );
+
+
+
+
+
+
+
+    }
+
+
+    function onVideoPlay(obj) {
+        GATracker("Video_Play");
+    }
+
+    function onVideoCanPlay(obj) {
+
+    }
+
+    function onVideoTimeUpdate(obj, second) {
+
+    }
+
+    function onVideoEnd() {
+        GATracker("Video_End");
+    }
+
+
+</script>
+
+
+<video id="videoGame" autoplay style="width: 300px;">
+    <source type="video/youtube" src="http://www.youtube.com/watch?v=jg0XP34Ivww" />
+</video>

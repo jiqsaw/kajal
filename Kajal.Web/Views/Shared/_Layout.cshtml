@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <title>Kajal</title>
+
+    @Html.Partial("PageControls/PageHead")
+    @Html.Partial("PageControls/PageStyles")
+    @Html.Partial("PageControls/JsGlobal")
+    @Html.Partial("Facebook/Config")
+    @Html.Partial("PageControls/PageScripts")
+    @Html.Partial("PageControls/GA")
+
+    @RenderSection("pageHead", required: false)
+    @RenderSection("scripts", required: false)
+
+
+</head>
+<body>
+
+    @Html.Partial("Header")
+
+    @RenderBody()
+
+    @Html.Partial("Footer")
+
+</body>
+</html>

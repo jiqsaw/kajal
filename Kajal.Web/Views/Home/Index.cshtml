@@ -1,0 +1,19 @@
+﻿<script src="@PathHelper.UrlStatic/facebook/fbLogin.js" type="text/javascript"></script>
+
+..
+
+<a href="~/Game">başla</a>
+
+@if (SessionManager.GetInstance().IsFbLogin)
+{
+    <text>
+        Connected
+    </text>
+}
+else
+{
+    <text>
+        <a href="javascript:;" id="fbBtnLogin" data-ga="fb-hemen-basla">BAĞLAN</a>
+        <img alt="" src="/Assets/img/Utils/Loading.gif" id="fbLoginProcess" style="margin: 20px 0 0 20px; display: none;" />
+    </text>
+}

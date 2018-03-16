@@ -1,0 +1,11 @@
+﻿@model Kajal.Com.GameWord
+
+
+@foreach (var item in Model.WordData)
+{
+    <a href="javascript:;" data-word="@item.Word" data-ga="game-word--@item.DisplayName">@item.DisplayName</a> <br />
+}
+
+<video id="videoGame" autoplay style="width: 100%; height: 100%;">
+    <source type="video/youtube" src="@Model.VideoCode" />
+</video>

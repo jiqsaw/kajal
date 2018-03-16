@@ -1,0 +1,20 @@
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\TestConsole\obj\Debug\TestConsole.pdb
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\TestConsole\bin\Debug\LIB.dll
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\TestConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\TestConsole\bin\Debug\LIB.pdb
+C:\Users\Jiqsaw\Desktop\Kajal\Kajal\TestConsole\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Loreal Maybelline Kajal\TestConsole\bin\Debug\TestConsole.exe.config
+D:\Projects\Loreal Maybelline Kajal\TestConsole\bin\Debug\TestConsole.exe
+D:\Projects\Loreal Maybelline Kajal\TestConsole\bin\Debug\TestConsole.pdb
+D:\Projects\Loreal Maybelline Kajal\TestConsole\bin\Debug\LIB.dll
+D:\Projects\Loreal Maybelline Kajal\TestConsole\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Loreal Maybelline Kajal\TestConsole\bin\Debug\LIB.pdb
+D:\Projects\Loreal Maybelline Kajal\TestConsole\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Loreal Maybelline Kajal\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+D:\Projects\Loreal Maybelline Kajal\TestConsole\obj\Debug\TestConsole.exe
+D:\Projects\Loreal Maybelline Kajal\TestConsole\obj\Debug\TestConsole.pdb
